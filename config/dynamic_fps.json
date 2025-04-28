@@ -1,0 +1,15 @@
+{
+  "states": {
+    "unfocused": {
+      "graphics_state": "reduced",
+      "run_garbage_collector": true
+    },
+    "invisible": {
+      "graphics_state": "minimal",
+      "run_garbage_collector": true
+    },
+    "hovered": {
+      "frame_rate_target": 40
+    }
+  }
+}

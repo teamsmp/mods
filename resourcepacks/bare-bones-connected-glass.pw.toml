@@ -1,0 +1,13 @@
+name = "Bare Bones - Connected Glass"
+filename = "Bare Bones - Clear CG - 1.21.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7vuMiTHm/versions/2ElBolTG/Bare%20Bones%20-%20Clear%20CG%20-%201.21.4.zip"
+hash-format = "sha512"
+hash = "f16311816d04329afd9030578ed97a5ada8ed17a133f2c95e341a9744ddc2d182dc1c41b4544d4138368c5f958ad094ba2ba23fb492bb8887ca34d986ba1d12b"
+
+[update]
+[update.modrinth]
+mod-id = "7vuMiTHm"
+version = "2ElBolTG"

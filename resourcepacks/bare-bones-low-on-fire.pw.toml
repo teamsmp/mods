@@ -1,0 +1,13 @@
+name = "Bare Bones - Low On Fire"
+filename = "Bare Bones - Low On Fire 1.21.5.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vcDllg0H/versions/nGarfP1A/Bare%20Bones%20-%20Low%20On%20Fire%201.21.5.zip"
+hash-format = "sha512"
+hash = "0d0089c9eca1465cf12629e3044647a7277d9cd7c93c5949c9304c4274578f25be67e73940d566e220ef4242f5e18156088b2d5548b4d889015e246c98051674"
+
+[update]
+[update.modrinth]
+mod-id = "vcDllg0H"
+version = "nGarfP1A"
