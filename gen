@@ -1,0 +1,3 @@
+#!/bin/bash
+
+packwiz modrinth export -o pack.mrpack

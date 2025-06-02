@@ -6,11 +6,12 @@
     }
   },
   "accessibility": {
-    "enableAccessibilityPlugin": false,
     "textBackgroundOpacity": 0.0,
     "flipMainHand": false,
+    "narrateKeys": false,
     "enableTextToSpeech": false,
-    "ttsMode": "TOGGLE"
+    "ttsMode": "TOGGLE",
+    "enableAccessibilityPlugin": false
   },
   "plugin": {
     "minecraft": {
@@ -79,6 +80,7 @@
       "registry_name.special": false,
       "block_states": false,
       "distance": false,
+      "object_name": true,
       "block_face": false,
       "coordinates": false,
       "registry_name": "OFF",

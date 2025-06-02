@@ -1,13 +1,13 @@
 name = "Team SMP++"
 author = "JunglTemple"
-version = "3.0.0"
+version = "4.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a98fd3959765b78eb9e5585ede66dd321a5ffa5bf7b768905c5afc5df11f582e"
+hash = "c678589855b2cd969504c67b8802a8c0a05e2ce61bfe265e2263ff0e1eaeba5a"
 
 [versions]
-fabric = "0.16.10"
-minecraft = "1.21.4"
+fabric = "0.16.14"
+minecraft = "1.21.5"

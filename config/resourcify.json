@@ -2,7 +2,7 @@
   "defaultService": "Modrinth",
   "fullResThumbnail": false,
   "openLinkInResourcify": true,
-  "adsEnabled": false,
+  "adsEnabled": true,
   "resourcePacksEnabled": true,
   "dataPacksEnabled": true,
   "shaderPacksEnabled": true,
