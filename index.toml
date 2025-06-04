@@ -269,6 +269,10 @@ file = "config/zoomify.json"
 hash = "b3e581c52520478ed00cee66afd8233e9d4155a884078e61e8356b01552e8941"
 
 [[files]]
+file = "gen"
+hash = "aa8a98d3f28849f49d962877da07a4d728d522cf0951bacc4ad37d7507ccbd4d"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "352fe01e3b8136cf2abf742ddc8e2cab45fd7f25f635df960053b8290e5dc2a4"
 metafile = true
