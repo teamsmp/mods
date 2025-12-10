@@ -33,6 +33,7 @@
       "tnt_stability": true,
       "item_storage.items_per_line": 9,
       "item_frame": true,
+      "shelf": true,
       "crop_progress": true,
       "command_block": true,
       "mob_growth": true,
@@ -45,6 +46,7 @@
       "fluid_storage": true,
       "jukebox": true,
       "brewing_stand": true,
+      "potion_effects.limit": 7,
       "energy_storage.detailed": false,
       "note_block": true,
       "fluid_storage.style": "PROGRESS_BAR",
@@ -65,15 +67,21 @@
       "entity_health.icons_per_line": 10,
       "total_enchantment_power": true,
       "potion_effects": true,
-      "painting": true,
-      "chiseled_bookshelf": true
+      "item_storage.sort": false,
+      "painting": true
     },
     "jade_access": {
+      "npc_description": true,
       "held_item": true,
       "sign": true,
       "block": true,
       "entity": true,
       "entity_variant": true
+    },
+    "reputation": {
+      "iron_golem": true,
+      "villager_snitch": true,
+      "villager_reputation": true
     },
     "jade": {
       "coordinates.rel": false,
@@ -85,7 +93,10 @@
       "coordinates": false,
       "registry_name": "OFF",
       "block_properties": false,
-      "mod_name": true
+      "mod_name": "ON"
+    },
+    "vihp": {
+      "villager_inventory": true
     }
   },
   "general": {
@@ -108,14 +119,13 @@
     "iconMode": "TOP",
     "animation": true,
     "disappearingDelay": 0.0,
-    "overlaySquare": false,
+    "overlayAnchorY": 0.0,
     "autoScaleThreshold": 0.4,
     "alpha": 0.7,
+    "overlayPosY": 1.0,
     "overlayScale": 1.0,
     "overlayAnchorX": 0.5,
-    "overlayAnchorY": 0.0,
     "activeTheme": "jade:dark",
-    "overlayPosX": 0.5,
-    "overlayPosY": 1.0
+    "overlayPosX": 0.5
   }
 }

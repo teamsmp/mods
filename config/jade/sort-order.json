@@ -13,6 +13,7 @@
   "jade_access:entity_body": null,
   "jade_access:entity_variant": null,
   "jade_access:held_item": null,
+  "jade_access:npc_description": null,
   "jade_access:sign": null,
   "minecraft:animal_owner": null,
   "minecraft:armor_stand": null,
@@ -20,7 +21,6 @@
   "minecraft:block_display": null,
   "minecraft:brewing_stand": null,
   "minecraft:campfire": null,
-  "minecraft:chiseled_bookshelf": null,
   "minecraft:command_block": null,
   "minecraft:crop_progress": null,
   "minecraft:enchantment_power": null,
@@ -55,9 +55,14 @@
   "minecraft:potion_effects": null,
   "minecraft:progress": null,
   "minecraft:redstone": null,
+  "minecraft:shelf": null,
   "minecraft:tnt_stability": null,
   "minecraft:total_enchantment_power": null,
   "minecraft:villager_profession": null,
   "minecraft:waxed": null,
-  "minecraft:zombie_villager": null
+  "minecraft:zombie_villager": null,
+  "reputation:iron_golem": null,
+  "reputation:villager_reputation": null,
+  "reputation:villager_snitch": null,
+  "vihp:villager_inventory": null
 }

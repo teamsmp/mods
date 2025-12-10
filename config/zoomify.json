@@ -14,7 +14,7 @@
   "_keybindScrolling": false,
   "relativeSensitivity": 100,
   "relativeViewBobbing": true,
-  "cinematicCamera": 0,
+  "cinematicCamera": 10,
   "spyglassBehaviour": "combine",
   "spyglassOverlayVisibility": "holding",
   "spyglassSoundBehaviour": "with_overlay",
